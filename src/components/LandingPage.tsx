@@ -1,6 +1,5 @@
 import { Button, Form, Input, Row, Col } from "antd";
 import { useState } from "react";
-import Header from "./Header";
 
 const LandingPage = () => {
   const [form] = Form.useForm();

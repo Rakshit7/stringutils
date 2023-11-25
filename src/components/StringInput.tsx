@@ -1,6 +1,6 @@
 import { Row, Col, Button } from "antd";
 import TextArea from "antd/es/input/TextArea";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import {
   convertToLowercase,
   convertToUppercase,
